@@ -1,6 +1,6 @@
 team: Tigers
 
-manager: Brenda
+manager: 호랑
 
 coach: Ruth
 
@@ -10,6 +10,7 @@ members:
   - David
   - Tyler
   - Kim
+  - 호랑
+  - 호랑이
 
 fetch:this
-new
