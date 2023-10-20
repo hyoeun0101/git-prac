@@ -5,4 +5,8 @@ fetch test!!!
 
 modify in origin/main
 
+나는 merge-test 브랜치에 있어. 
+- 상황1 : 동일한 파일을 메인 브랜치와 merge-test 브랜치에서 수정했다. 메인 브랜치를 merge-test브랜치로 병합할 것이다.
+- 결과예상 : 충돌
+
 안녕 톰. 나는 머지 연습중.
